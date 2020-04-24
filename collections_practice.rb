@@ -33,7 +33,7 @@ end
 def kesha_maker(array)
   kesha_array =[]
   array.each do |name|
-    name[3] = "$"
+    name[2] = "$"
     kesha_array << name
   end
 end
