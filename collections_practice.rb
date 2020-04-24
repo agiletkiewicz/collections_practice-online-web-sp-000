@@ -31,9 +31,10 @@ end
 
 
 def kesha_maker(array)
-  kesha =[]
+  kesha_array =[]
   array.each do |name|
-    kesha << 
+    
+    kesha_array << 
   end
 end
 
